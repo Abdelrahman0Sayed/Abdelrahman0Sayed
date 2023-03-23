@@ -17,9 +17,14 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
+- Founder of IT-Conquers company
+- Biomedical engineering student
+- Passion for technology, programming, and ethical hacking
+- Provides courses in programming (Python, Java, C++)
+- Interested in ethical hacking and cybersecurity
 - Playing CTF's at spare time
-- Currently learning Web Development by Self
+- Fascinated by mathematics and physics
+- Loves computer hardware and staying up-to-date with latest advancements
 
 
 <br><br>
