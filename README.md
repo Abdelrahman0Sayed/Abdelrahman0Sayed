@@ -137,8 +137,6 @@
 <br>
 <br>
 <br>
-##My contributes##
-![snake gif](https://github.com/Abdelrahman0Sayed/Abdelrahman0Sayed/blob/output/github-contribution-grid-snake.gif)
 
 
 
