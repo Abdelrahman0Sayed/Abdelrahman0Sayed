@@ -2,7 +2,7 @@
 <h1 align="center"><b>Hi , I'm Abdelrahman Sayed </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+github..&hearts;++;Bug+Hunter,;Biomedical+Engineering+Student,;CTF+Player,;Active+Learner/Researcher...,.<3">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+github..&hearts;++;Iam+Abdelrahman+AKA+AxLucifer..;Bug+Hunter,;Biomedical+Engineering+Student,;CTF+Player,;Active+Learner/Researcher...,.<3">
 </p>
 
 
