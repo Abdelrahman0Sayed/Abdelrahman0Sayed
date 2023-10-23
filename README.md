@@ -25,7 +25,7 @@
 - Passion for technology, programming, and ethical hacking
 - Provides courses in programming (Python, Java, C++)
 - Interested in ethical hacking and cybersecurity
-- Playing CTF's at spare time
+- Playing CTFs at my spare time
 - Fascinated by mathematics and physics
 - Loves computer hardware and staying up-to-date with latest advancements
 
