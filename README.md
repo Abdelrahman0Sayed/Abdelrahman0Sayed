@@ -20,14 +20,14 @@
 
 <br>
 
-- Founder of IT-Conquers company
+- Founder of BitSecurity platform
 - Biomedical engineering student
 - Passion for technology, programming, and ethical hacking
-- Provides courses in programming (Python, Java, C++)
+- Provides courses in programming (Hacking, Python, C++)
 - Interested in ethical hacking and cybersecurity
 - Playing CTFs at my spare time
 - Fascinated by mathematics and physics
-- Loves computer hardware and staying up-to-date with latest advancements
+- Loves computer hardware and staying up-to-date with the latest advancements
 
 
 <br><br>
