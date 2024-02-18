@@ -1,10 +1,10 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Abdelrahman0Sayed.Abdelrahman0Sayed" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+AxLucifer!;" />
 </h1>
 
-<h3 align="center">A passionate penetration tester</h3>
+<h3 align="center">A passionate penetration tester from Egypt.</h3>
 
 <br/>
 
@@ -26,8 +26,8 @@
   <a href="https://www.linkedin.com/in/abdelrahman-sayed-94aa62248/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://salesp07.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  <a href="https://Abdelrahman0Sayed.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=safari&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
 
@@ -36,8 +36,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,canva,git" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,c++,c,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,visualstudio,vscode,github,git" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,cpp,c,bash,powershell,mysql,linux,replit" /><br>
 </div>
 
 <br/>
