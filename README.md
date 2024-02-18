@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Security+**
 
-💬 Ask me about **Hacking, Coding... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **Hacking, Coding... or anything [here](https://github.com/Abdelrahman0Sayed/Abdelrahman0Sayed/issues)**
 
 
  </div>
@@ -27,7 +27,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://Abdelrahman0Sayed.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=safari&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=safari&logoColor=white" target="_blank" /> 
   </a>
 </div>
 
@@ -36,8 +36,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,visualstudio,vscode,github,git" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,cpp,c,bash,powershell,mysql,linux,replit" /><br>
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,visualstudio,vscode,github,git" /><br>
+    <img src="https://skillicons.dev/icons?i=python,javascript,cpp,c,bash,powershell,mysql,linux,replit" />
 </div>
 
 <br/>
@@ -46,8 +46,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Abdelrahman0Sayed/Abdelrahman0Sayed/output/github-contribution-grid-snake.svg" />
-  
+  <img alt="my contributions" src="https://raw.githubusercontent.com/Abdelrahman0Sayed/Abdelrahman0Sayed/output/github-contribution-grid-snake-dark.svg" />
   <br/><br/><br/>
 </div>
 
