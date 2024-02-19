@@ -10,11 +10,11 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Office Network Design**
+🔭 I’m currently working on **Office Network Design**
  
- 🌱 I’m currently learning **Security+**
+🌱 I’m currently learning **Security+**
 
-💬 Ask me about **Hacking, Coding... or anything [here](https://github.com/Abdelrahman0Sayed/Abdelrahman0Sayed/issues)**
+💬 Ask me about **Hacking, Coding... or anything -> [here](https://github.com/Abdelrahman0Sayed/Abdelrahman0Sayed/issues/4)**
 
 
  </div>
