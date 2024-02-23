@@ -55,7 +55,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdelrahman0Sayed&theme=radical)]
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdelrahman0Sayed&theme=radical)
 </div>
 
 <br/><br/>
