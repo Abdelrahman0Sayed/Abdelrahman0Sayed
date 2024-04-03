@@ -37,7 +37,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=bootstrap,html,css,visualstudio,vscode,github,git" /><br>
-    <img src="https://skillicons.dev/icons?i=python,javascript,cpp,c,bash,powershell,postgres,linux,replit" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,cpp,csharp,bash,powershell,postgres,linux,replit" />
 </div>
 
 <br/>
