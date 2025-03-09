@@ -10,9 +10,9 @@
 
 <div align="center">
  
-🔭 I’m currently working on **Nothing**
+🔭 I’m currently working on **Computer Vision Projects**
  
-🌱 I’m currently learning **OWASP Top 10**
+🌱 I’m currently learning **eJPTv2 Course**
 
 💬 Ask me about **Hacking, Coding... or anything -> [here](https://github.com/Abdelrahman0Sayed/Abdelrahman0Sayed/issues/4)**
 
